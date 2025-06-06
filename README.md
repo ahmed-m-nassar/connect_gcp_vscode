@@ -9,5 +9,5 @@ Host gcp_instance1_key2
   IdentityFile C:\Users\amahmed\.ssh\gcp_instance1_key2
   User EJADA+amahmed
 
-
 The user should be the same user in the public key at the end (case sensitive)
+Not necessarily EJADA+amahmed
